@@ -1,0 +1,9 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore credentials
+config/credentials.json
+
+# Ignore virtual environments
+venv/
